@@ -34,7 +34,6 @@ This lab demonstrates how to install and configure Active Directory using Azure.
   <ul>
     <li>Our Client VM should be installed normally using the Windows 10 image (OS)</li>
     <ul>
-      <li>Tutorial on how to install VMs and to access them using Remote Desktop can be found <b><a href ="https://github.com/ColtonTrauCC/vm-network">here</a></b></li>
     </ul>      
     <li>Our Domain Controller VM using Active Directory should be created using the image <b>Windows Server 2022 Datacenter: Azure Edition - x64 Gen2</b></li>
     <ul>
